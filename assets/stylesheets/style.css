@@ -1930,12 +1930,12 @@ hr {
 
 .carousel>.carousel-inner>.carousel-item>img {
     width: 280px;
-    height: 250px;
+    height: 330px;
 }
 
 .carousel {
     width: 480px;
-    height: 180px;
+    height: 280px;
 }
 
 .main-price {
