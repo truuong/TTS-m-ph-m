@@ -1924,12 +1924,8 @@ hr {
     color: #c00113;
 }
 
-.carousel-inner img {
-    margin: auto;
-}
-
 .carousel>.carousel-inner>.carousel-item>img {
-    width: 280px;
+    width: 480px;
     height: 330px;
 }
 
