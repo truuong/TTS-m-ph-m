@@ -138,6 +138,36 @@ button:focus {
 	-o-transition: all .3s ease;
 }
 
+.main-price {
+	position: absolute;
+	right: -15px;
+	top: 0;
+	height: 480px;
+	width: 480px;
+	vertical-align: middle;
+	align-items: center;
+	justify-content: center;
+	color: #ffffff;
+  }
+
+
+  .carousel-inner img {
+	margin: auto;
+  }
+  
+.carousel,
+.carousel-inner,
+.carousel-item,
+ img {
+	width: 0px;
+	height: 330px;
+  }
+  
+  .carousel {
+	width: 480px;
+	height: 280px;
+  }
+  
 .button:hover {
 	color: #fff;
 }
@@ -1918,22 +1948,6 @@ hr {
 	font-size: 18px;
 	font-weight: 400;
 	color: #c00113;
-}
-
-.main-price {
-	position: absolute;
-	right: 25px;
-	top: 0;
-	background: #be001c;
-	display: flex;
-	height: 80px;
-	width: 80px;
-	text-align: center;
-	vertical-align: middle;
-	align-items: center;
-	justify-content: center;
-	color: #ffffff;
-	font-size: 34px;
 }
 
 .menu-product-details {
